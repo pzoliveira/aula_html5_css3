@@ -1,4 +1,27 @@
 
 body {
     background: #F2BDC0;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+h1 {
+    font-family: fantasy;
+    color: red;
+}
+
+img {
+    margin-bottom: 100px;
 }
